@@ -128,7 +128,7 @@ author:
       url: "https://github.com/yun-jihyun/"
     - label: "vsco"
       icon: "fas fa-fw fa-link"
-      url: "https://vsco.co/ynnjihyun/"
+      # url: "https://vsco.co/ynnjihyun/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
