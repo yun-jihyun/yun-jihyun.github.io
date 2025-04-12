@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Data Science"
-    url: /categories/data-science/
+    url: /data-science/
   - title: "Revenue Management" 
-    url: /categories/revenue-management/
+    url: /revenue-management/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "About"
