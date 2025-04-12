@@ -114,9 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "assets/images/option3.jpeg"
-  bio              : "I am an **amazing** person."
+  name             : "Jihyun Yun"
+  avatar           : "assets/images/option1.jpeg"
+  bio              : "Year 3 Data Science and Analytics Undergraduate Student at NUS"
   location         : "Somewhere"
   email            :
   links:
