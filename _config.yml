@@ -115,14 +115,14 @@ analytics:
 # Site Author
 author:
   name             : "Jihyun Yun"
-  avatar           : "assets/images/option5.JPG"
+  avatar           : "assets/images/option2.jpeg"
   bio              : "Year 3 Data Science and Analytics Undergraduate Student at NUS"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:jihyun.yun@u.nus.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
