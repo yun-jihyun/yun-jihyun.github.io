@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Data Science"
-    url: /data-science/
+    url: categories/data-science/
   - title: "Revenue Management" 
     url: /revenue-management/
   #- title: "Quick-Start Guide"
