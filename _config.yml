@@ -120,9 +120,9 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "jihyun.yun@u.nus.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jihyun.yun@u.nus.edu"
+      # url: "mailto:jihyun.yun@u.nus.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
