@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Jihyun Yun"
+title                    : "Jihyun's Archive"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihyun Yun"
@@ -128,7 +128,7 @@ author:
       url: "https://github.com/yun-jihyun/"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "www.linkedin.com/in/jihyun-yun-b87041267"
+      url: "https://www.linkedin.com/in/jihyun-yun-b87041267/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
