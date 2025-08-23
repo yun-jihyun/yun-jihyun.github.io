@@ -2,7 +2,7 @@
 main:
   - title: "Data Science"
     url: /categories/data-science/
-  - title: "intern" 
+  - title: "Internship" 
     url: /categories/internship/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
