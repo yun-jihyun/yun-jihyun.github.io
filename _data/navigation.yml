@@ -2,8 +2,8 @@
 main:
   - title: "Data Science"
     url: /categories/data-science/
-  - title: "Marriott International Internship" 
-    url: /categories/marriott-international-internship/
+  - title: "Internship" 
+    url: /categories/internship/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "About"
