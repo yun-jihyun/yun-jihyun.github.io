@@ -8,6 +8,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__content p {
-    font-size: 12px; // Adjust this value as needed (e.g., 16px, 1.1em)
+html {
+    font-size: 14px;
 }
